@@ -26,8 +26,9 @@ Upgrade [last year result](https://www.aclweb.org/anthology/W19-1415.pdf) using 
 ## Code
 
 * [transliteration](https://github.com/HSE-CROSS-LING-DL/transliteration-tur)
-* [POStagger.ipynb](POStagger.ipynb) - POS tag prediction
+* [POStagger.ipynb](POStagger.ipynb) - POS tag prediction (multi-label classification)
 * [lemma_prediction.ipynb](lemma_prediction.ipynb) – char-level encoder-decoder for lemma prediction
+* [MSD_prediction.ipynb](MSD_prediction.ipynb) – MSD prediction (multi-label classification)
 ---
 #### Other trials:
 * [multilingual_fasttext.ipynb](multilingual_fasttext.ipynb) - learning fasstext embeddings for all languages
